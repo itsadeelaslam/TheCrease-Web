@@ -1,0 +1,12 @@
+.header{
+    width: 100%;
+    height: 502px;
+    /* background: linear-gradient(251.23deg, #00C6FB -55.29%, #005BEA 53.66%); */
+    background: url('../../assets/headerPhoto.jpg') no-repeat 0 0;
+    background-size: cover;
+    /* background-position: center; */
+    /* mix-blend-mode: normal;  */
+    /* clip-path: polygon(0 0, 100% 0, 100% 75%, 0% 100%); */
+    border-bottom-left-radius: 30px;
+    position: relative;
+  }
